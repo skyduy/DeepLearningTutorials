@@ -1,5 +1,5 @@
 # DeepLearningTutorials
-深度学习教程代码，加入中文注释，方便理解。参考[官方代码](https://github.com/lisa-lab/DeepLearningTutorials)
+深度学习教程代码，重构原代码并加入中文注释，方便理解。参考[官方代码](https://github.com/lisa-lab/DeepLearningTutorials)
 
 Dependence：
 [theano](http://deeplearning.net/software/theano/)
