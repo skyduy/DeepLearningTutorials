@@ -4,6 +4,7 @@
 Dependence：
 [theano](http://deeplearning.net/software/theano/)
 
+## Description 
 
 ####LogisticRegression
 
